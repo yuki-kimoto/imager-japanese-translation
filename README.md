@@ -1,4 +1,4 @@
-imager-japanese-translation
+Perl Imagerモジュール日本語訳
 ===========================
 
 PerlのモジュールImagerのドキュメントの日本語訳です
